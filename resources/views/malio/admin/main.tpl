@@ -124,6 +124,11 @@
                         <li><a href="/admin/config/telegram"><i class="icon icon-lg">supervisor_account</i>&nbsp;Telegram</a></li>
                     </ul>
 
+                    <a class="waves-attach" data-toggle="collapse" href="#ui_menu_config">win,mac,安卓客户端购买</a>
+                    <ul class="menu-collapse collapse in" id="ui_menu_config">
+                        <li><a href="https://t.me/giaodidi" target="blank"><i class="icon icon-lg">supervisor_account</i>&nbsp;Telegram联系授权</a></li>
+                    </ul>
+                    
                     <a class="waves-attach" data-toggle="collapse" href="#ui_menu_detect">审计</a>
                     <ul class="menu-collapse collapse in" id="ui_menu_detect">
                         <li><a href="/admin/detect"><i class="icon icon-lg">account_balance</i>&nbsp;审计规则</a></li>
